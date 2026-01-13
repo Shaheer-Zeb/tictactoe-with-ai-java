@@ -1,1 +1,1 @@
-# tictactoe-with-ai-java
+# TicTacToe in Java with Advanced AI (Using Mimimax Algorithm)
