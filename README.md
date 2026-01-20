@@ -1,4 +1,4 @@
-# TicTacToe in Java with Advanced AI (Using Mimimax Algorithm)
+# TicTacToe in Java with Advanced AI (Using Minimax Algorithm)
 
 Let me tell you our front, you're never going to win against this AI.
 
